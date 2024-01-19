@@ -32,11 +32,6 @@ The results of the models are summarized in the table below:
 | K-Nearest Neighbors | 0.25 | 0.85 |
 | Linear Regression | 0.24 | 0.86 |
 
-The plots below show the actual vs predicted rice yield for each model on the test set:
-
-![Random Forest Plot](^4^)
-![K-Nearest Neighbors Plot](^5^)
-![Linear Regression Plot](^6^)
 
 ## Discussion
 
