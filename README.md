@@ -8,9 +8,9 @@ This project aims to predict the rice yield in India based on the rainfall data 
 
 The data used for this project consists of three files:
 
-- `Maximum-Temperature.csv`: This file contains the monthly maximum temperature data for 36 meteorological subdivisions of India from 1901 to 2017¹.
-- `Minimum-Temperature.csv`: This file contains the monthly minimum temperature data for 36 meteorological subdivisions of India from 1901 to 2017¹.
-- `rainfall.csv`: This file contains the monthly rainfall data for 36 meteorological subdivisions of India from 1901 to 2017².
+- `Maximum-Temperature.csv`: This file contains the monthly maximum temperature data for 36 meteorological subdivisions of India from 1901 to 2017.
+- `Minimum-Temperature.csv`: This file contains the monthly minimum temperature data for 36 meteorological subdivisions of India from 1901 to 2017.
+- `rainfall.csv`: This file contains the monthly rainfall data for 36 meteorological subdivisions of India from 1901 to 2017.
 
 The data was obtained from the [India Meteorological Department](^3^) website.
 
